@@ -1,6 +1,8 @@
 import 'package:counselingapp/login_register_screen.dart';
 import 'package:flutter/material.dart';
 
+// charlie's github is: Charlie2233
+// his repo is: https://github.com/charlie2233/counselorapp
 void main() {
   runApp(const MyApp());
 }
